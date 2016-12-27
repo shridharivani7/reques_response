@@ -4,10 +4,10 @@ About OpenERP(ODOO)
 
 I am going to brief you about Odoo (formally known as openERP)  and it is open-source ERP .
 I have been working with this application it has good features and I am able to build my own module .
-I am using scrappy or crawler concept to build new module with new feature like extracting product sale price from other e-commerce webites
-which will help us to analyse average sale price 
-This application has Sale,Product,Project,Purchase,Warehouse,Stock,HR ,Website etc modules.It’s coming with improvised versions like openERP7, 
-Odoo 8, Odoo 9 ,now Odoo 10. 
+I am using scrappy or crawler concept to build new module with new feature like extracting product sale price 
+from other e-commerce webites which will help us to analyse average sale price 
+This application has Sale,Product,Project,Purchase,Warehouse,Stock,HR ,Website etc modules.
+It’s coming with improvised versions like openERP7, Odoo 8, Odoo 9 ,now Odoo 10. 
 
 About ODOO:
 
@@ -16,7 +16,8 @@ The functionality of a module is exposed through XML-RPC .
 Modules typically make use of OpenERP's ORM to persist their data in a relational database (PostgreSQL).
 Modules can insert data in the database during installation by providing XML, CSV, or YML files.
 It has commen ORM methods like search(),create(),write(),browse(),exists() etc
-OpenERP follows the MVC semantic with-model : The PostgreSQL tables.view : views are defined in XML files in OpenERP.controller : The objects of OpenERP.
+OpenERP follows the MVC semantic with-model : The PostgreSQL tables.view : views are defined in XML files in OpenERP.
+controller : The objects of OpenERP.
 Odoo has two editions Community Edition and Enterprice Edition 
 Community Edition will be open-sourced 
 Enterprice Edition will never be open-sourced and the code will only be available to official Odoo partners and Odoo itselfs. 
