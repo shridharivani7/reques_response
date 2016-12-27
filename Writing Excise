@@ -1,0 +1,37 @@
+About OpenERP(ODOO)
+
+
+
+I am going to brief you about Odoo (formally known as openERP)  and it is open-source ERP .
+I have been working with this application it has good features and I am able to build my own module .
+I am using scrappy or crawler concept to build new module with new feature like extracting product sale price from other e-commerce webites
+which will help us to analyse average sale price 
+This application has Sale,Product,Project,Purchase,Warehouse,Stock,HR ,Website etc modules.It’s coming with improvised versions like openERP7, 
+Odoo 8, Odoo 9 ,now Odoo 10. 
+
+About ODOO:
+
+The core of OpenERP and its modules are written in Python.
+The functionality of a module is exposed through XML-RPC .
+Modules typically make use of OpenERP's ORM to persist their data in a relational database (PostgreSQL).
+Modules can insert data in the database during installation by providing XML, CSV, or YML files.
+It has commen ORM methods like search(),create(),write(),browse(),exists() etc
+OpenERP follows the MVC semantic with-model : The PostgreSQL tables.view : views are defined in XML files in OpenERP.controller : The objects of OpenERP.
+Odoo has two editions Community Edition and Enterprice Edition 
+Community Edition will be open-sourced 
+Enterprice Edition will never be open-sourced and the code will only be available to official Odoo partners and Odoo itselfs. 
+
+Like :
+
+Odoo offers plethora of functionalities and over  1000 modules which can be implemented to meet your business requirements.
+This platform is highly modular.You can get Odoo with just few basic modules and can add the  rest later as you need.
+Odoo intigration is easy to configure and it can easily be integrated with other ERPs only to improve their efficiency.
+This  platform offers high flexibility and so can easily be customized to fullfill the business requirements.
+
+Dislike:
+
+Customization of OpenERP as compare to out of the box implementation can cost your higher.
+Upgrading to newer version is another problem with customized OpenERP until you are covered under OpenERP warranty.
+Customization of OpenERP can take more time and resources
+
+
